@@ -1,0 +1,6 @@
+echo "# eaglestrike" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Evan3275/eaglestrike.git
+git push -u origin master
